@@ -1,0 +1,8 @@
+2024-05-14T11:11:54,161 - HandlerTime.Milliseconds:7704.26|#ModelName:drawn_humanoid_detector,Level:Model|#hostname:LAPTOP-GA6DJPQA,requestID:6ab092f0-0616-4b20-b299-75138c0c5875,timestamp:1715656314
+2024-05-14T11:11:54,167 - PredictionTime.Milliseconds:7705.26|#ModelName:drawn_humanoid_detector,Level:Model|#hostname:LAPTOP-GA6DJPQA,requestID:6ab092f0-0616-4b20-b299-75138c0c5875,timestamp:1715656314
+2024-05-14T11:11:55,014 - HandlerTime.Milliseconds:712.94|#ModelName:drawn_humanoid_pose_estimator,Level:Model|#hostname:LAPTOP-GA6DJPQA,requestID:2d888560-0d81-4c1e-aaf3-1e1466cb18b0,timestamp:1715656315
+2024-05-14T11:11:55,016 - PredictionTime.Milliseconds:713.94|#ModelName:drawn_humanoid_pose_estimator,Level:Model|#hostname:LAPTOP-GA6DJPQA,requestID:2d888560-0d81-4c1e-aaf3-1e1466cb18b0,timestamp:1715656315
+2024-05-14T11:14:57,044 - HandlerTime.Milliseconds:7480.83|#ModelName:drawn_humanoid_detector,Level:Model|#hostname:LAPTOP-GA6DJPQA,requestID:022080ff-1b42-42c5-a7bd-1f4e47533c73,timestamp:1715656497
+2024-05-14T11:14:57,045 - PredictionTime.Milliseconds:7481.83|#ModelName:drawn_humanoid_detector,Level:Model|#hostname:LAPTOP-GA6DJPQA,requestID:022080ff-1b42-42c5-a7bd-1f4e47533c73,timestamp:1715656497
+2024-05-14T11:14:57,780 - HandlerTime.Milliseconds:644.06|#ModelName:drawn_humanoid_pose_estimator,Level:Model|#hostname:LAPTOP-GA6DJPQA,requestID:55ca6fe0-19dc-4287-8352-c7f611b7a469,timestamp:1715656497
+2024-05-14T11:14:57,780 - PredictionTime.Milliseconds:644.06|#ModelName:drawn_humanoid_pose_estimator,Level:Model|#hostname:LAPTOP-GA6DJPQA,requestID:55ca6fe0-19dc-4287-8352-c7f611b7a469,timestamp:1715656497

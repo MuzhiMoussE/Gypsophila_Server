@@ -1,0 +1,4 @@
+2024-05-14T11:11:54,167 - /[0:0:0:0:0:0:0:1]:59519 "POST /predictions/drawn_humanoid_detector HTTP/1.1" 200 7800
+2024-05-14T11:11:55,017 - /[0:0:0:0:0:0:0:1]:59520 "POST /predictions/drawn_humanoid_pose_estimator HTTP/1.1" 200 744
+2024-05-14T11:14:57,046 - /[0:0:0:0:0:0:0:1]:53746 "POST /predictions/drawn_humanoid_detector HTTP/1.1" 200 7529
+2024-05-14T11:14:57,782 - /[0:0:0:0:0:0:0:1]:53751 "POST /predictions/drawn_humanoid_pose_estimator HTTP/1.1" 200 670

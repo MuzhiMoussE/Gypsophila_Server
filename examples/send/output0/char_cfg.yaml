@@ -1,0 +1,83 @@
+height: 426
+skeleton:
+- loc:
+  - 108
+  - 344
+  name: root
+  parent: null
+- loc:
+  - 108
+  - 344
+  name: hip
+  parent: root
+- loc:
+  - 106
+  - 128
+  name: torso
+  parent: hip
+- loc:
+  - 106
+  - 74
+  name: neck
+  parent: torso
+- loc:
+  - 89
+  - 128
+  name: right_shoulder
+  parent: torso
+- loc:
+  - 68
+  - 144
+  name: right_elbow
+  parent: right_shoulder
+- loc:
+  - 52
+  - 157
+  name: right_hand
+  parent: right_elbow
+- loc:
+  - 123
+  - 128
+  name: left_shoulder
+  parent: torso
+- loc:
+  - 156
+  - 144
+  name: left_elbow
+  parent: left_shoulder
+- loc:
+  - 193
+  - 157
+  name: left_hand
+  parent: left_elbow
+- loc:
+  - 98
+  - 344
+  name: right_hip
+  parent: root
+- loc:
+  - 73
+  - 373
+  name: right_knee
+  parent: right_hip
+- loc:
+  - 44
+  - 406
+  name: right_foot
+  parent: right_knee
+- loc:
+  - 118
+  - 344
+  name: left_hip
+  parent: root
+- loc:
+  - 135
+  - 381
+  name: left_knee
+  parent: left_hip
+- loc:
+  - 160
+  - 419
+  name: left_foot
+  parent: left_knee
+width: 216

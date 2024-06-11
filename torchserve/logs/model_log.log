@@ -1,0 +1,22 @@
+2024-05-14T10:54:53,593 [INFO ] W-9000-drawn_humanoid_detector_1.0-stdout MODEL_LOG - Listening on port: None
+2024-05-14T10:54:53,609 [INFO ] W-9000-drawn_humanoid_detector_1.0-stdout MODEL_LOG - Successfully loaded F:\Program Files (x86)\Anaconda\anaconda3\envs\animated_drawings\Lib\site-packages/ts/configs/metrics.yaml.
+2024-05-14T10:54:53,610 [INFO ] W-9000-drawn_humanoid_detector_1.0-stdout MODEL_LOG - [PID]12196
+2024-05-14T10:54:53,610 [INFO ] W-9000-drawn_humanoid_detector_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-14T10:54:53,611 [INFO ] W-9000-drawn_humanoid_detector_1.0-stdout MODEL_LOG - Python runtime: 3.8.13
+2024-05-14T10:54:53,923 [INFO ] W-9000-drawn_humanoid_detector_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2024-05-14T10:54:53,969 [INFO ] W-9000-drawn_humanoid_detector_1.0-stdout MODEL_LOG - model_name: drawn_humanoid_detector, batchSize: 1
+2024-05-14T10:55:02,671 [INFO ] W-9001-drawn_humanoid_pose_estimator_1.0-stdout MODEL_LOG - Listening on port: None
+2024-05-14T10:55:02,679 [INFO ] W-9001-drawn_humanoid_pose_estimator_1.0-stdout MODEL_LOG - Successfully loaded F:\Program Files (x86)\Anaconda\anaconda3\envs\animated_drawings\Lib\site-packages/ts/configs/metrics.yaml.
+2024-05-14T10:55:02,680 [INFO ] W-9001-drawn_humanoid_pose_estimator_1.0-stdout MODEL_LOG - [PID]10576
+2024-05-14T10:55:02,680 [INFO ] W-9001-drawn_humanoid_pose_estimator_1.0-stdout MODEL_LOG - Torch worker started.
+2024-05-14T10:55:02,680 [INFO ] W-9001-drawn_humanoid_pose_estimator_1.0-stdout MODEL_LOG - Python runtime: 3.8.13
+2024-05-14T10:55:02,684 [INFO ] W-9001-drawn_humanoid_pose_estimator_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9001).
+2024-05-14T10:55:02,711 [INFO ] W-9001-drawn_humanoid_pose_estimator_1.0-stdout MODEL_LOG - model_name: drawn_humanoid_pose_estimator, batchSize: 1
+2024-05-14T11:11:46,456 [INFO ] W-9000-drawn_humanoid_detector_1.0-stdout MODEL_LOG - No CUDA runtime is found, using CUDA_HOME='F:\Program Files (x86)\NVIDIA\NVIDIA GPU Computing Toolkit\CUDA\v11.3'
+2024-05-14T11:11:46,456 [INFO ] W-9000-drawn_humanoid_detector_1.0-stdout MODEL_LOG - load checkpoint from local path: C:\Users\HP\AppData\Local\Temp\models\aa0c5b6ac7264e9bb57bad0184c2d95d\latest.pth
+2024-05-14T11:11:46,457 [INFO ] W-9000-drawn_humanoid_detector_1.0-stdout MODEL_LOG - Backend received inference at: 1715656306
+2024-05-14T11:11:54,300 [INFO ] W-9001-drawn_humanoid_pose_estimator_1.0-stdout MODEL_LOG - No CUDA runtime is found, using CUDA_HOME='F:\Program Files (x86)\NVIDIA\NVIDIA GPU Computing Toolkit\CUDA\v11.3'
+2024-05-14T11:11:54,300 [INFO ] W-9001-drawn_humanoid_pose_estimator_1.0-stdout MODEL_LOG - load checkpoint from local path: C:\Users\HP\AppData\Local\Temp\models\6a3345414daf48c585a2a85cb0b187ca\best_AP_epoch_72.pth
+2024-05-14T11:11:54,301 [INFO ] W-9001-drawn_humanoid_pose_estimator_1.0-stdout MODEL_LOG - Backend received inference at: 1715656314
+2024-05-14T11:14:49,561 [INFO ] W-9000-drawn_humanoid_detector_1.0-stdout MODEL_LOG - Backend received inference at: 1715656489
+2024-05-14T11:14:57,135 [INFO ] W-9001-drawn_humanoid_pose_estimator_1.0-stdout MODEL_LOG - Backend received inference at: 1715656497
