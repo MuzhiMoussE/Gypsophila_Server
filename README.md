@@ -1,7 +1,7 @@
 # DoodleAnimation
 
 #### 介绍
-毕设项目存档，更改自meta的Animated Drawings项目，本项目主要应用了该模型将客户端输入的涂鸦图片转化为Unity3D场景中可动的涂鸦动画，作为服务端功能。
+张馨木（22920202204705）毕设项目存档，更改自meta的Animated Drawings项目，本项目主要应用了该模型将客户端输入的涂鸦图片转化为Unity3D场景中可动的涂鸦动画，作为服务端功能。
 
 客户端代码见仓库( https://gitee.com/zhang-xinmu/sketch )。
 
